@@ -11,3 +11,22 @@ layout大改
 
 #309 ShanghaiCenter 缺圖的連結，需更新連結在309行
 #307 改照片的名字
+
+20190512 by hoiian
+picaso~ mobile layout
+
+#124, #189 adding class "photo-scrollbar"
+change css file 
+sketch.js #58 inputImg.elt.style.width = '100%;'
+	
+	some small bug,
+	slider:
+	.owl-carousel .owl-dots{
+		bottom: 0;
+		position: initial;
+	}
+	
+	photo name black box:
+	.center-container .photo-name-box{
+		bottom: 80px;
+	}
